@@ -1,0 +1,16 @@
+START
+
+Welcome message
+Game creates variable to track score
+Game tracks questions
+Game asks user first question
+    IF user is correct
+        Add to score
+    ELSE IF user is wrong
+        Deduct from score
+    Is game over?
+    IF game is not over
+        Play again
+    ELSE IF game is over
+        Display score
+END
